@@ -1,10 +1,11 @@
-# ChatConNodeJS
-Torres Gutiérrez Diego
+#  Trabajo_04_Chat-con-Node-JS
 
+Manuel Sedano Luna
 
-Tuve multiples errores a la hora de lanzar la página a Heroku, al correrlo me aparecia un mensaje que decía "Everything up-to-date" y por más que intente no pude más. 😢
+Cometí varios errores al intentar subir la página a Heroku, al ejecutarlo recibía un mensaje que indicaba que todo estaba "Everything up-to-date" actualizado y, a pesar de mis múltiples intentos, no pude solucionarlo. 😢
 
-Pero traigo un video demostrativo desde el LocalHost.
+Sin embargo, tengo disponible un video demostrativo desde el LocalHost.
+
 ## Vídeo:
 
 https://user-images.githubusercontent.com/111834274/192449372-b3c7d4cb-eecb-40f6-93a7-a00d3686735b.mp4
